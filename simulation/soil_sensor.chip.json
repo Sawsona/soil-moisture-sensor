@@ -1,6 +1,6 @@
 {
   "name": "Soil Sensor",
-  "author": "Anonymous maker",
+  "author": "sawsan",
   "pins": [
     "GND",
     "VCC",
