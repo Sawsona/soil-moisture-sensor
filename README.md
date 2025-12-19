@@ -5,7 +5,7 @@ A simple ESP32 project that reads soil moisture from **GPIO 35** and shows the s
 ---
 
 ## 📸 Simulation Preview
-![Wokwi Simulation](assets/sim.png)
+![Wokwi Simulation](assets/wokwi-sim.png.png)
 
 ---
 
