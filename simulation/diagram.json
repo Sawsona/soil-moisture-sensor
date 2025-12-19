@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Maverick",
+  "author": "sawsan",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -110.5, "left": 187, "attrs": {} },
